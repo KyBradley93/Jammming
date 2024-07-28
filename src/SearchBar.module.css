@@ -1,0 +1,7 @@
+.SearchBar {
+    display: flex;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}

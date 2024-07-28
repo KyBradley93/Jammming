@@ -1,0 +1,11 @@
+.SpotifySubmit {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    width: 40%;
+}
+
+.Songs {
+    text-decoration: none;
+}
